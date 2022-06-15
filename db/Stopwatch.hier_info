@@ -1,0 +1,234 @@
+|ClockDivider50MHzTo100Hz
+CLK_50_MHz => CLK_50_MHz.IN2
+reset_n => reset_n.IN1
+CLK_100Hz << CLK_100Hz~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc0
+clk => clk.IN1
+reset_n => reset_n.IN5
+Q[0] <= DTypeFF:dtff0.port3
+Q[1] <= DTypeFF:dtff1.port3
+Q[2] <= DTypeFF:dtff2.port3
+Q[3] <= DTypeFF:dtff3.port3
+Q[4] <= DTypeFF:dtff4.port3
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc1
+clk => clk.IN1
+reset_n => reset_n.IN5
+Q[0] <= DTypeFF:dtff0.port3
+Q[1] <= DTypeFF:dtff1.port3
+Q[2] <= DTypeFF:dtff2.port3
+Q[3] <= DTypeFF:dtff3.port3
+Q[4] <= DTypeFF:dtff4.port3
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc2
+clk => clk.IN1
+reset_n => reset_n.IN5
+Q[0] <= DTypeFF:dtff0.port3
+Q[1] <= DTypeFF:dtff1.port3
+Q[2] <= DTypeFF:dtff2.port3
+Q[3] <= DTypeFF:dtff3.port3
+Q[4] <= DTypeFF:dtff4.port3
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FourBitBinaryCounter:fbbc3
+clk => clk.IN1
+reset_n => reset_n.IN4
+Q[0] <= DTypeFF:dtff0.port3
+Q[1] <= DTypeFF:dtff1.port3
+Q[2] <= DTypeFF:dtff2.port3
+Q[3] <= DTypeFF:dtff3.port3
+
+
+|ClockDivider50MHzTo100Hz|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|FourBitBinaryCounter:fbbc3|DTypeFF:dtff3
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|Comparator:c0
+A[0] => w0.IN0
+A[1] => w1.IN0
+A[2] => w2.IN0
+A[3] => w3.IN0
+A[4] => w4.IN0
+A[5] => w5.IN0
+A[6] => w6.IN0
+A[7] => w7.IN0
+A[8] => w8.IN0
+A[9] => w9.IN0
+A[10] => w10.IN0
+A[11] => w11.IN0
+A[12] => w12.IN0
+A[13] => w13.IN0
+A[14] => w14.IN0
+A[15] => w15.IN0
+A[16] => w16.IN0
+A[17] => w17.IN0
+A[18] => w18.IN0
+B[0] => w0.IN1
+B[1] => w1.IN1
+B[2] => w2.IN1
+B[3] => w3.IN1
+B[4] => w4.IN1
+B[5] => w5.IN1
+B[6] => w6.IN1
+B[7] => w7.IN1
+B[8] => w8.IN1
+B[9] => w9.IN1
+B[10] => w10.IN1
+B[11] => w11.IN1
+B[12] => w12.IN1
+B[13] => w13.IN1
+B[14] => w14.IN1
+B[15] => w15.IN1
+B[16] => w16.IN1
+B[17] => w17.IN1
+B[18] => w18.IN1
+out <= WideAnd0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|DTypeFF:dtff0
+clk => Q~reg0.CLK
+D => Q~reg0.DATAIN
+reset_n => Q~reg0.ACLR
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|ClockDivider50MHzTo100Hz|JKTypeFF:jkff0
+clk => Q~reg0.CLK
+J => Mux0.IN3
+K => Mux0.IN4
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

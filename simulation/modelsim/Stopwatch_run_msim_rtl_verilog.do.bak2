@@ -1,0 +1,26 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/StopwatchCounter.v}
+vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/SRTypeFF.v}
+vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/SixBitComparator.v}
+vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/SixBitBinaryCounter.v}
+vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/SevenBitComparator.v}
+vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/SevenBitBinaryCounter.v}
+vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/NineCycleDelayMod.v}
+vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/DTypeFF.v}
+vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/StopwatchLogic.v}
+vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/NegEdgeJKTypeFF.v}
+
+vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/StopWatchLogic_tb.v}
+
+vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs="+acc"  StopWatchLogic_tb
+
+add wave *
+view structure
+view signals
+run -all

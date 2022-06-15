@@ -1,0 +1,156 @@
+Flow report for Stopwatch
+Wed Jun 16 21:38:12 2021
+Quartus Prime Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Flow Summary
+  3. Flow Settings
+  4. Flow Non-Default Global Settings
+  5. Flow Elapsed Time
+  6. Flow OS Summary
+  7. Flow Log
+  8. Flow Messages
+  9. Flow Suppressed Messages
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2020  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++----------------------------------------------------------------------------------+
+; Flow Summary                                                                     ;
++------------------------------------+---------------------------------------------+
+; Flow Status                        ; Successful - Wed Jun 16 21:38:12 2021       ;
+; Quartus Prime Version              ; 20.1.1 Build 720 11/11/2020 SJ Lite Edition ;
+; Revision Name                      ; Stopwatch                                   ;
+; Top-level Entity Name              ; ClockDivider50MHzTo100Hz                    ;
+; Family                             ; MAX 10                                      ;
+; Device                             ; 10M50DAF484C6GES                            ;
+; Timing Models                      ; Preliminary                                 ;
+; Total logic elements               ; 29                                          ;
+;     Total combinational functions  ; 28                                          ;
+;     Dedicated logic registers      ; 23                                          ;
+; Total registers                    ; 23                                          ;
+; Total pins                         ; 3                                           ;
+; Total virtual pins                 ; 0                                           ;
+; Total memory bits                  ; 0                                           ;
+; Embedded Multiplier 9-bit elements ; 0                                           ;
+; Total PLLs                         ; 0                                           ;
+; UFM blocks                         ; 0                                           ;
+; ADC blocks                         ; 0                                           ;
++------------------------------------+---------------------------------------------+
+
+
++-----------------------------------------+
+; Flow Settings                           ;
++-------------------+---------------------+
+; Option            ; Setting             ;
++-------------------+---------------------+
+; Start date & time ; 06/16/2021 21:38:00 ;
+; Main task         ; Compilation         ;
+; Revision Name     ; Stopwatch           ;
++-------------------+---------------------+
+
+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Flow Non-Default Global Settings                                                                                                                             ;
++--------------------------------------+----------------------------------------+---------------+--------------------------+-----------------------------------+
+; Assignment Name                      ; Value                                  ; Default Value ; Entity Name              ; Section Id                        ;
++--------------------------------------+----------------------------------------+---------------+--------------------------+-----------------------------------+
+; COMPILER_SIGNATURE_ID                ; 10995770589203.162385068011908         ; --            ; --                       ; --                                ;
+; EDA_DESIGN_INSTANCE_NAME             ; NA                                     ; --            ; --                       ; BCD2SevenSegmentDisplayEncoder_tb ;
+; EDA_DESIGN_INSTANCE_NAME             ; NA                                     ; --            ; --                       ; SevenSegEncoder_tb                ;
+; EDA_DESIGN_INSTANCE_NAME             ; NA                                     ; --            ; --                       ; FourBitBinaryCounter_tb           ;
+; EDA_DESIGN_INSTANCE_NAME             ; NA                                     ; --            ; --                       ; ClockDivider50MHzTo100Hz_tb       ;
+; EDA_DESIGN_INSTANCE_NAME             ; NA                                     ; --            ; --                       ; StopWatchLogic_tb                 ;
+; EDA_DESIGN_INSTANCE_NAME             ; NA                                     ; --            ; --                       ; FiveBitBinaryCounter_tb           ;
+; EDA_DESIGN_INSTANCE_NAME             ; NA                                     ; --            ; --                       ; Comparator_tb                     ;
+; EDA_GENERATE_FUNCTIONAL_NETLIST      ; Off                                    ; --            ; --                       ; eda_board_design_timing           ;
+; EDA_GENERATE_FUNCTIONAL_NETLIST      ; Off                                    ; --            ; --                       ; eda_board_design_boundary_scan    ;
+; EDA_GENERATE_FUNCTIONAL_NETLIST      ; Off                                    ; --            ; --                       ; eda_board_design_signal_integrity ;
+; EDA_GENERATE_FUNCTIONAL_NETLIST      ; Off                                    ; --            ; --                       ; eda_board_design_symbol           ;
+; EDA_NATIVELINK_SIMULATION_TEST_BENCH ; ClockDivider50MHzTo100Hz_tb            ; --            ; --                       ; eda_simulation                    ;
+; EDA_OUTPUT_DATA_FORMAT               ; Verilog Hdl                            ; --            ; --                       ; eda_simulation                    ;
+; EDA_SIMULATION_TOOL                  ; ModelSim-Altera (Verilog)              ; <None>        ; --                       ; --                                ;
+; EDA_TEST_BENCH_ENABLE_STATUS         ; TEST_BENCH_MODE                        ; --            ; --                       ; eda_simulation                    ;
+; EDA_TEST_BENCH_FILE                  ; BCD2SevenSegmentDisplayEncoder_tb.v    ; --            ; --                       ; BCD2SevenSegmentDisplayEncoder_tb ;
+; EDA_TEST_BENCH_FILE                  ; SevenSegEncoder_tb.v                   ; --            ; --                       ; SevenSegEncoder_tb                ;
+; EDA_TEST_BENCH_FILE                  ; FourBitBinaryCounter_tb.v              ; --            ; --                       ; FourBitBinaryCounter_tb           ;
+; EDA_TEST_BENCH_FILE                  ; ClockDivider50MHzTo100Hz_tb.v          ; --            ; --                       ; ClockDivider50MHzTo100Hz_tb       ;
+; EDA_TEST_BENCH_FILE                  ; StopWatchLogic_tb.v                    ; --            ; --                       ; StopWatchLogic_tb                 ;
+; EDA_TEST_BENCH_FILE                  ; FiveBitBinaryCounter_tb.v              ; --            ; --                       ; FiveBitBinaryCounter_tb           ;
+; EDA_TEST_BENCH_FILE                  ; Comparator_tb.v                        ; --            ; --                       ; Comparator_tb                     ;
+; EDA_TEST_BENCH_MODULE_NAME           ; BCD2SevenSegmentDisplayEncoder_tb      ; --            ; --                       ; BCD2SevenSegmentDisplayEncoder_tb ;
+; EDA_TEST_BENCH_MODULE_NAME           ; SevenSegEncoder_tb                     ; --            ; --                       ; SevenSegEncoder_tb                ;
+; EDA_TEST_BENCH_MODULE_NAME           ; FourBitBinaryCounter_tb                ; --            ; --                       ; FourBitBinaryCounter_tb           ;
+; EDA_TEST_BENCH_MODULE_NAME           ; ClockDivider50MHzTo100Hz_tb            ; --            ; --                       ; ClockDivider50MHzTo100Hz_tb       ;
+; EDA_TEST_BENCH_MODULE_NAME           ; StopWatchLogic_tb                      ; --            ; --                       ; StopWatchLogic_tb                 ;
+; EDA_TEST_BENCH_MODULE_NAME           ; FiveBitBinaryCounter_tb                ; --            ; --                       ; FiveBitBinaryCounter_tb           ;
+; EDA_TEST_BENCH_MODULE_NAME           ; Comparator_tb                          ; --            ; --                       ; Comparator_tb                     ;
+; EDA_TEST_BENCH_NAME                  ; ClockDivider50MHzTo100Hz_tb            ; --            ; --                       ; eda_simulation                    ;
+; EDA_TEST_BENCH_NAME                  ; Comparator_tb                          ; --            ; --                       ; eda_simulation                    ;
+; EDA_TEST_BENCH_NAME                  ; FiveBitBinaryCounter_tb                ; --            ; --                       ; eda_simulation                    ;
+; EDA_TEST_BENCH_NAME                  ; FourBitBinaryCounter_tb                ; --            ; --                       ; eda_simulation                    ;
+; EDA_TEST_BENCH_NAME                  ; StopWatchLogic_tb                      ; --            ; --                       ; eda_simulation                    ;
+; EDA_TEST_BENCH_NAME                  ; SevenSegEncoder_tb                     ; --            ; --                       ; eda_simulation                    ;
+; EDA_TEST_BENCH_NAME                  ; BCD2SevenSegmentDisplayEncoder_tb      ; --            ; --                       ; eda_simulation                    ;
+; EDA_TIME_SCALE                       ; 1 ps                                   ; --            ; --                       ; eda_simulation                    ;
+; MAX_CORE_JUNCTION_TEMP               ; 85                                     ; --            ; --                       ; --                                ;
+; MIN_CORE_JUNCTION_TEMP               ; 0                                      ; --            ; --                       ; --                                ;
+; PARTITION_COLOR                      ; -- (Not supported for targeted family) ; --            ; ClockDivider50MHzTo100Hz ; Top                               ;
+; PARTITION_FITTER_PRESERVATION_LEVEL  ; -- (Not supported for targeted family) ; --            ; ClockDivider50MHzTo100Hz ; Top                               ;
+; PARTITION_NETLIST_TYPE               ; -- (Not supported for targeted family) ; --            ; ClockDivider50MHzTo100Hz ; Top                               ;
+; POWER_BOARD_THERMAL_MODEL            ; None (CONSERVATIVE)                    ; --            ; --                       ; --                                ;
+; POWER_PRESET_COOLING_SOLUTION        ; 23 MM HEAT SINK WITH 200 LFPM AIRFLOW  ; --            ; --                       ; --                                ;
+; PROJECT_OUTPUT_DIRECTORY             ; output_files                           ; --            ; --                       ; --                                ;
+; TOP_LEVEL_ENTITY                     ; ClockDivider50MHzTo100Hz               ; Stopwatch     ; --                       ; --                                ;
++--------------------------------------+----------------------------------------+---------------+--------------------------+-----------------------------------+
+
+
++--------------------------------------------------------------------------------------------------------------------------+
+; Flow Elapsed Time                                                                                                        ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Module Name          ; Elapsed Time ; Average Processors Used ; Peak Virtual Memory ; Total CPU Time (on all processors) ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+; Analysis & Synthesis ; 00:00:12     ; 1.0                     ; 4776 MB             ; 00:00:21                           ;
+; Total                ; 00:00:12     ; --                      ; --                  ; 00:00:21                           ;
++----------------------+--------------+-------------------------+---------------------+------------------------------------+
+
+
++------------------------------------------------------------------------------------+
+; Flow OS Summary                                                                    ;
++----------------------+------------------+------------+------------+----------------+
+; Module Name          ; Machine Hostname ; OS Name    ; OS Version ; Processor type ;
++----------------------+------------------+------------+------------+----------------+
+; Analysis & Synthesis ; LAPTOP-HB37AQHG  ; Windows 10 ; 10.0       ; x86_64         ;
++----------------------+------------------+------------+------------+----------------+
+
+
+------------
+; Flow Log ;
+------------
+quartus_map --read_settings_files=on --write_settings_files=off Stopwatch -c Stopwatch
+
+
+

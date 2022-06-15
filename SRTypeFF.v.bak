@@ -1,0 +1,16 @@
+module SRTypeFF(
+    input clk,
+    input S,
+    input R,
+    output Q,
+	 output InvQ
+);
+	wire w1;
+	wire w2;
+	
+	nand(w1,clk,S);
+	nand(w2,clk,R);
+	nand(Q,w1,InvQ);
+	nand(InvQ,w2,Q);
+	
+endmodule

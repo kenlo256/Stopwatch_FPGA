@@ -1,0 +1,106 @@
+# Reading pref.tcl
+# do Stopwatch_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/JKTypeFF.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:39:05 on Jun 16,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Temp/Stopwatch" C:/Temp/Stopwatch/JKTypeFF.v 
+# -- Compiling module JKTypeFF
+# 
+# Top level modules:
+# 	JKTypeFF
+# End time: 21:39:05 on Jun 16,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/FourBitBinaryCounter.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:39:05 on Jun 16,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Temp/Stopwatch" C:/Temp/Stopwatch/FourBitBinaryCounter.v 
+# -- Compiling module FourBitBinaryCounter
+# 
+# Top level modules:
+# 	FourBitBinaryCounter
+# End time: 21:39:06 on Jun 16,2021, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/FiveBitBinaryCounter.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:39:06 on Jun 16,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Temp/Stopwatch" C:/Temp/Stopwatch/FiveBitBinaryCounter.v 
+# -- Compiling module FiveBitBinaryCounter
+# 
+# Top level modules:
+# 	FiveBitBinaryCounter
+# End time: 21:39:06 on Jun 16,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/DTypeFF.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:39:06 on Jun 16,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Temp/Stopwatch" C:/Temp/Stopwatch/DTypeFF.v 
+# -- Compiling module DTypeFF
+# 
+# Top level modules:
+# 	DTypeFF
+# End time: 21:39:06 on Jun 16,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/Comparator.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:39:06 on Jun 16,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Temp/Stopwatch" C:/Temp/Stopwatch/Comparator.v 
+# -- Compiling module Comparator
+# 
+# Top level modules:
+# 	Comparator
+# End time: 21:39:06 on Jun 16,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/ClockDivider50MHzTo100Hz.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:39:06 on Jun 16,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Temp/Stopwatch" C:/Temp/Stopwatch/ClockDivider50MHzTo100Hz.v 
+# -- Compiling module ClockDivider50MHzTo100Hz
+# 
+# Top level modules:
+# 	ClockDivider50MHzTo100Hz
+# End time: 21:39:06 on Jun 16,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/Temp/Stopwatch {C:/Temp/Stopwatch/ClockDivider50MHzTo100Hz_tb.v}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:39:06 on Jun 16,2021
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/Temp/Stopwatch" C:/Temp/Stopwatch/ClockDivider50MHzTo100Hz_tb.v 
+# -- Compiling module ClockDivider50MHzTo100Hz_tb
+# 
+# Top level modules:
+# 	ClockDivider50MHzTo100Hz_tb
+# End time: 21:39:06 on Jun 16,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs="+acc"  ClockDivider50MHzTo100Hz_tb
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L fiftyfivenm_ver -L rtl_work -L work -voptargs=""+acc"" ClockDivider50MHzTo100Hz_tb 
+# Start time: 21:39:06 on Jun 16,2021
+# Loading work.ClockDivider50MHzTo100Hz_tb
+# Loading work.ClockDivider50MHzTo100Hz
+# Loading work.FiveBitBinaryCounter
+# Loading work.DTypeFF
+# Loading work.FourBitBinaryCounter
+# Loading work.Comparator
+# Loading work.JKTypeFF
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+add wave -position end sim:/ClockDivider50MHzTo100Hz_tb/dut/*
+restart
+run -all
+# End time: 21:42:15 on Jun 16,2021, Elapsed time: 0:03:09
+# Errors: 0, Warnings: 0

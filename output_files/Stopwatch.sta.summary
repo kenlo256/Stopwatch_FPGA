@@ -1,0 +1,3353 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : -5.001
+TNS   : -205.635
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : -4.742
+TNS   : -199.876
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : -3.072
+TNS   : -4.698
+
+Type  : Slow 1200mV 85C Model Setup 'hold'
+Slack : -2.932
+TNS   : -98.853
+
+Type  : Slow 1200mV 85C Model Setup 'start_stop'
+Slack : -1.809
+TNS   : -1.809
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_50'
+Slack : -1.423
+TNS   : -4.594
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|NineCycleDelayMod:ncdm0|DTypeFF:dtff8|Q'
+Slack : -1.375
+TNS   : -1.375
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : -0.861
+TNS   : -0.879
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : -0.778
+TNS   : -1.090
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : -0.608
+TNS   : -0.608
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : -0.594
+TNS   : -0.849
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : -0.540
+TNS   : -0.540
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : -0.469
+TNS   : -0.673
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : -0.438
+TNS   : -0.438
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : -0.433
+TNS   : -0.433
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : -0.420
+TNS   : -0.420
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : -0.409
+TNS   : -0.409
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : -0.407
+TNS   : -0.407
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : -0.403
+TNS   : -0.403
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : -0.397
+TNS   : -0.397
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : -0.385
+TNS   : -0.385
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : -0.381
+TNS   : -0.381
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : -0.376
+TNS   : -0.376
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : -0.365
+TNS   : -0.365
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : -0.361
+TNS   : -0.361
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : -0.353
+TNS   : -0.353
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : -0.345
+TNS   : -0.345
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : -0.340
+TNS   : -0.340
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : -0.339
+TNS   : -0.339
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : -0.333
+TNS   : -0.333
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : -0.319
+TNS   : -0.319
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : -0.317
+TNS   : -0.317
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : -0.311
+TNS   : -0.311
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : -0.311
+TNS   : -0.311
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : -0.310
+TNS   : -0.310
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : -0.306
+TNS   : -0.306
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : -0.304
+TNS   : -0.304
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : -0.290
+TNS   : -0.290
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : -0.289
+TNS   : -0.289
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : -0.286
+TNS   : -0.286
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : -0.269
+TNS   : -0.269
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : -0.268
+TNS   : -0.268
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : -0.266
+TNS   : -0.266
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : -0.224
+TNS   : -0.224
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : -0.219
+TNS   : -0.219
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : -0.218
+TNS   : -0.218
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : -0.178
+TNS   : -0.178
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : -0.174
+TNS   : -0.174
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|DTypeFF:dtff0|Q'
+Slack : -0.159
+TNS   : -0.159
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : -0.123
+TNS   : -0.123
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : -0.111
+TNS   : -0.111
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : -0.040
+TNS   : -0.040
+
+Type  : Slow 1200mV 85C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : 0.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : 0.071
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'hold'
+Slack : 0.155
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : 0.173
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : 0.216
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : 0.301
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : 0.346
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : 0.361
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : 0.367
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : 0.369
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : 0.369
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : 0.371
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : 0.371
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : 0.371
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : 0.371
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : 0.371
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : 0.379
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : 0.381
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : 0.385
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : 0.418
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : 0.424
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : 0.428
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : 0.430
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : 0.438
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : 0.446
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : 0.448
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : 0.450
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : 0.460
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : 0.469
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : 0.470
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : 0.471
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : 0.474
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : 0.478
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : 0.479
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : 0.480
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : 0.481
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : 0.486
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : 0.491
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : 0.498
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : 0.512
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : 0.529
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : 0.532
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : 0.545
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : 0.553
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : 0.556
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : 0.559
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : 0.568
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : 0.572
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : 0.576
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : 0.663
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_50'
+Slack : 0.680
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|DTypeFF:dtff0|Q'
+Slack : 0.823
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : 0.946
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|NineCycleDelayMod:ncdm0|DTypeFF:dtff8|Q'
+Slack : 1.016
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'start_stop'
+Slack : 1.722
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : -7.616
+TNS   : -7.616
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : -6.349
+TNS   : -6.349
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : -6.303
+TNS   : -6.303
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : -6.297
+TNS   : -6.297
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : -6.252
+TNS   : -6.252
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : -6.192
+TNS   : -6.192
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : -6.127
+TNS   : -6.127
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : -6.124
+TNS   : -6.124
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : -6.123
+TNS   : -6.123
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : -6.122
+TNS   : -6.122
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : -6.110
+TNS   : -6.110
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : -6.098
+TNS   : -6.098
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : -6.053
+TNS   : -6.053
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : -6.042
+TNS   : -6.042
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : -6.023
+TNS   : -6.023
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : -6.021
+TNS   : -6.021
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : -5.986
+TNS   : -5.986
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : -5.986
+TNS   : -5.986
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : -5.980
+TNS   : -5.980
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : -5.974
+TNS   : -5.974
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : -5.916
+TNS   : -5.916
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : -5.832
+TNS   : -5.832
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : -5.800
+TNS   : -5.800
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : -5.773
+TNS   : -5.773
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : -5.749
+TNS   : -5.749
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : -5.734
+TNS   : -5.734
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : -5.712
+TNS   : -5.712
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : -5.705
+TNS   : -5.705
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : -5.626
+TNS   : -5.626
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : -5.182
+TNS   : -5.182
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : -5.086
+TNS   : -5.086
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : -4.440
+TNS   : -4.440
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : -4.418
+TNS   : -4.418
+
+Type  : Slow 1200mV 85C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : -3.808
+TNS   : -7.584
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : -3.779
+TNS   : -3.779
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : -3.774
+TNS   : -3.774
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : -3.698
+TNS   : -3.698
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : -3.652
+TNS   : -3.652
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : -3.634
+TNS   : -3.634
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : -3.551
+TNS   : -3.551
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : -3.545
+TNS   : -3.545
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : -3.511
+TNS   : -3.511
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : -3.449
+TNS   : -3.449
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : -3.343
+TNS   : -3.343
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : -3.338
+TNS   : -3.338
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : -3.286
+TNS   : -3.286
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : -3.254
+TNS   : -3.254
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : -3.249
+TNS   : -3.249
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : -3.241
+TNS   : -3.241
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : -3.120
+TNS   : -3.120
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : -3.097
+TNS   : -3.097
+
+Type  : Slow 1200mV 85C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : -3.063
+TNS   : -3.063
+
+Type  : Slow 1200mV 85C Model Recovery 'hold'
+Slack : -2.117
+TNS   : -2.117
+
+Type  : Slow 1200mV 85C Model Recovery 'CLK_50'
+Slack : -0.845
+TNS   : -0.845
+
+Type  : Slow 1200mV 85C Model Removal 'hold'
+Slack : 0.317
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'CLK_50'
+Slack : 1.408
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : 1.997
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : 2.516
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : 2.638
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : 3.363
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : 3.438
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : 3.548
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : 3.579
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : 3.608
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : 3.742
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : 3.750
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : 3.755
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : 3.786
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : 3.819
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : 3.843
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : 3.888
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : 3.971
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : 3.974
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : 3.979
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : 3.995
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : 4.018
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : 4.025
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : 4.031
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : 4.042
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : 4.070
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : 4.078
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : 4.096
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : 4.137
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : 4.181
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : 4.212
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : 4.215
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : 4.251
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : 4.264
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : 4.264
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : 4.280
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : 4.284
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : 4.285
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : 4.296
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : 4.304
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : 4.320
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : 4.341
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : 4.390
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : 4.395
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : 4.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : 4.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : 4.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : 4.408
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : 4.463
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : 4.526
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : 4.576
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : 4.579
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : 4.638
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : 5.822
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'hold'
+Slack : -3.000
+TNS   : -60.434
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_50'
+Slack : -3.000
+TNS   : -7.888
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'start_stop'
+Slack : -3.000
+TNS   : -4.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : -1.222
+TNS   : -58.656
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : -1.222
+TNS   : -57.434
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -13.442
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -2.444
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -2.444
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -2.444
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -2.444
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -2.444
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|NineCycleDelayMod:ncdm0|DTypeFF:dtff8|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : -4.382
+TNS   : -184.994
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : -4.335
+TNS   : -182.194
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : -2.828
+TNS   : -4.194
+
+Type  : Slow 1200mV 0C Model Setup 'hold'
+Slack : -2.413
+TNS   : -83.522
+
+Type  : Slow 1200mV 0C Model Setup 'start_stop'
+Slack : -1.537
+TNS   : -1.537
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_50'
+Slack : -1.185
+TNS   : -3.709
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|NineCycleDelayMod:ncdm0|DTypeFF:dtff8|Q'
+Slack : -1.128
+TNS   : -1.128
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : -0.698
+TNS   : -0.935
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : -0.646
+TNS   : -0.646
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : -0.417
+TNS   : -0.417
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : -0.411
+TNS   : -0.411
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : -0.407
+TNS   : -0.594
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : -0.349
+TNS   : -0.349
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : -0.349
+TNS   : -0.349
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : -0.345
+TNS   : -0.345
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : -0.343
+TNS   : -0.343
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : -0.336
+TNS   : -0.336
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : -0.329
+TNS   : -0.329
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : -0.324
+TNS   : -0.324
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : -0.321
+TNS   : -0.321
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : -0.321
+TNS   : -0.321
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : -0.302
+TNS   : -0.302
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : -0.294
+TNS   : -0.431
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : -0.285
+TNS   : -0.285
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : -0.284
+TNS   : -0.284
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : -0.281
+TNS   : -0.281
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : -0.281
+TNS   : -0.281
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : -0.271
+TNS   : -0.271
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : -0.269
+TNS   : -0.269
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : -0.260
+TNS   : -0.260
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : -0.255
+TNS   : -0.255
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : -0.251
+TNS   : -0.251
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : -0.250
+TNS   : -0.250
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : -0.247
+TNS   : -0.247
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : -0.247
+TNS   : -0.247
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : -0.246
+TNS   : -0.246
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : -0.238
+TNS   : -0.238
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : -0.229
+TNS   : -0.229
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : -0.228
+TNS   : -0.228
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : -0.223
+TNS   : -0.223
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : -0.205
+TNS   : -0.205
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : -0.199
+TNS   : -0.199
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : -0.171
+TNS   : -0.171
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : -0.164
+TNS   : -0.164
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : -0.162
+TNS   : -0.162
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : -0.161
+TNS   : -0.161
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : -0.133
+TNS   : -0.133
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : -0.125
+TNS   : -0.125
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|DTypeFF:dtff0|Q'
+Slack : -0.064
+TNS   : -0.064
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : -0.063
+TNS   : -0.063
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : -0.053
+TNS   : -0.053
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : 0.000
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : 0.397
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : 0.397
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : 0.397
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : 0.397
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : 0.397
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : 0.023
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'hold'
+Slack : 0.086
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : 0.142
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : 0.153
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : 0.277
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : 0.320
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : 0.337
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : 0.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : 0.342
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : 0.352
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : 0.356
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : 0.365
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : 0.370
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : 0.387
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : 0.399
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : 0.400
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : 0.403
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : 0.405
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : 0.409
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : 0.410
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : 0.412
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : 0.413
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : 0.416
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : 0.425
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : 0.430
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : 0.435
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : 0.438
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : 0.439
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : 0.443
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : 0.448
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : 0.449
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : 0.453
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : 0.459
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : 0.462
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : 0.464
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : 0.497
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : 0.498
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : 0.502
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : 0.513
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : 0.521
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : 0.521
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : 0.528
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : 0.545
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_50'
+Slack : 0.590
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : 0.615
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|DTypeFF:dtff0|Q'
+Slack : 0.758
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : 0.865
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|NineCycleDelayMod:ncdm0|DTypeFF:dtff8|Q'
+Slack : 0.892
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'start_stop'
+Slack : 1.504
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : -7.025
+TNS   : -7.025
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : -5.869
+TNS   : -5.869
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : -5.813
+TNS   : -5.813
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : -5.806
+TNS   : -5.806
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : -5.773
+TNS   : -5.773
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : -5.706
+TNS   : -5.706
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : -5.675
+TNS   : -5.675
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : -5.666
+TNS   : -5.666
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : -5.657
+TNS   : -5.657
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : -5.656
+TNS   : -5.656
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : -5.653
+TNS   : -5.653
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : -5.647
+TNS   : -5.647
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : -5.590
+TNS   : -5.590
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : -5.576
+TNS   : -5.576
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : -5.570
+TNS   : -5.570
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : -5.557
+TNS   : -5.557
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : -5.539
+TNS   : -5.539
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : -5.532
+TNS   : -5.532
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : -5.529
+TNS   : -5.529
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : -5.522
+TNS   : -5.522
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : -5.477
+TNS   : -5.477
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : -5.389
+TNS   : -5.389
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : -5.362
+TNS   : -5.362
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : -5.333
+TNS   : -5.333
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : -5.318
+TNS   : -5.318
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : -5.298
+TNS   : -5.298
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : -5.290
+TNS   : -5.290
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : -5.287
+TNS   : -5.287
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : -5.209
+TNS   : -5.209
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : -4.720
+TNS   : -4.720
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : -4.634
+TNS   : -4.634
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : -4.095
+TNS   : -4.095
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : -4.028
+TNS   : -4.028
+
+Type  : Slow 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : -3.493
+TNS   : -6.959
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : -3.413
+TNS   : -3.413
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : -3.408
+TNS   : -3.408
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : -3.341
+TNS   : -3.341
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : -3.307
+TNS   : -3.307
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : -3.287
+TNS   : -3.287
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : -3.219
+TNS   : -3.219
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : -3.211
+TNS   : -3.211
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : -3.171
+TNS   : -3.171
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : -3.119
+TNS   : -3.119
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : -3.030
+TNS   : -3.030
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : -3.021
+TNS   : -3.021
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : -2.977
+TNS   : -2.977
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : -2.949
+TNS   : -2.949
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : -2.941
+TNS   : -2.941
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : -2.937
+TNS   : -2.937
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : -2.824
+TNS   : -2.824
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : -2.809
+TNS   : -2.809
+
+Type  : Slow 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : -2.770
+TNS   : -2.770
+
+Type  : Slow 1200mV 0C Model Recovery 'hold'
+Slack : -1.842
+TNS   : -1.842
+
+Type  : Slow 1200mV 0C Model Recovery 'CLK_50'
+Slack : -0.669
+TNS   : -0.669
+
+Type  : Slow 1200mV 0C Model Removal 'hold'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'CLK_50'
+Slack : 1.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : 1.860
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : 2.339
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : 2.407
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : 3.087
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : 3.156
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : 3.327
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : 3.369
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : 3.384
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : 3.509
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : 3.515
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : 3.516
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : 3.553
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : 3.574
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : 3.595
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : 3.601
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : 3.677
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : 3.680
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : 3.695
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : 3.702
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : 3.722
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : 3.726
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : 3.741
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : 3.755
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : 3.781
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : 3.786
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : 3.798
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : 3.858
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : 3.883
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : 3.891
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : 3.922
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : 3.932
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : 3.936
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : 3.941
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : 3.948
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : 3.965
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : 3.976
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : 3.984
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : 3.985
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : 3.990
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : 4.005
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : 4.041
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : 4.053
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : 4.053
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : 4.061
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : 4.061
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : 4.061
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : 4.112
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : 4.174
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : 4.214
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : 4.217
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : 4.263
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : 5.344
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'hold'
+Slack : -3.000
+TNS   : -60.434
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_50'
+Slack : -3.000
+TNS   : -7.888
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'start_stop'
+Slack : -3.000
+TNS   : -4.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : -1.222
+TNS   : -58.656
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : -1.222
+TNS   : -57.434
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -13.442
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -2.444
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -2.444
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -2.444
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -2.444
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -2.444
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|NineCycleDelayMod:ncdm0|DTypeFF:dtff8|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : -1.222
+TNS   : -1.222
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : -2.402
+TNS   : -80.698
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : -2.108
+TNS   : -87.397
+
+Type  : Fast 1200mV 0C Model Setup 'hold'
+Slack : -1.482
+TNS   : -32.324
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : -0.883
+TNS   : -1.019
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|NineCycleDelayMod:ncdm0|DTypeFF:dtff8|Q'
+Slack : -0.570
+TNS   : -0.570
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_50'
+Slack : -0.510
+TNS   : -1.150
+
+Type  : Fast 1200mV 0C Model Setup 'start_stop'
+Slack : -0.435
+TNS   : -0.435
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : -0.342
+TNS   : -0.342
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : -0.218
+TNS   : -0.218
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : -0.217
+TNS   : -0.217
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : -0.159
+TNS   : -0.159
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : -0.104
+TNS   : -0.104
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : 0.003
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : 0.063
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : 0.086
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : 0.094
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : 0.098
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : 0.098
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : 0.102
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : 0.105
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : 0.108
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : 0.109
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : 0.113
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : 0.117
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : 0.117
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : 0.122
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : 0.125
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : 0.125
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : 0.130
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : 0.130
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : 0.133
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : 0.136
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : 0.136
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : 0.138
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : 0.138
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : 0.139
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : 0.150
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : 0.153
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : 0.160
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : 0.162
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : 0.164
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : 0.176
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : 0.188
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : 0.198
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : 0.224
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : 0.295
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|DTypeFF:dtff0|Q'
+Slack : 0.473
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : 0.693
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : 0.693
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : 0.693
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : 0.693
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : 0.693
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : 0.097
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : 0.104
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'hold'
+Slack : 0.118
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : 0.130
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : 0.136
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : 0.155
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : 0.157
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : 0.158
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : 0.160
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : 0.162
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : 0.163
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : 0.167
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : 0.171
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : 0.171
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : 0.172
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : 0.177
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : 0.184
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : 0.190
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : 0.193
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : 0.197
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : 0.198
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : 0.198
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : 0.198
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : 0.201
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_50'
+Slack : 0.203
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : 0.203
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : 0.203
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : 0.204
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : 0.212
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : 0.224
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : 0.226
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : 0.230
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : 0.231
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : 0.231
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : 0.239
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : 0.247
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : 0.252
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : 0.254
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : 0.278
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|DTypeFF:dtff0|Q'
+Slack : 0.378
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : 0.521
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'StopwatchLogic:comb_3|StopwatchCounter:sc0|NineCycleDelayMod:ncdm0|DTypeFF:dtff8|Q'
+Slack : 0.524
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'start_stop'
+Slack : 0.622
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : -3.526
+TNS   : -3.526
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : -2.848
+TNS   : -2.848
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : -2.825
+TNS   : -2.825
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : -2.822
+TNS   : -2.822
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : -2.791
+TNS   : -2.791
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : -2.766
+TNS   : -2.766
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : -2.734
+TNS   : -2.734
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : -2.733
+TNS   : -2.733
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : -2.729
+TNS   : -2.729
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : -2.728
+TNS   : -2.728
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : -2.723
+TNS   : -2.723
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : -2.718
+TNS   : -2.718
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : -2.695
+TNS   : -2.695
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : -2.691
+TNS   : -2.691
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : -2.676
+TNS   : -2.676
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : -2.670
+TNS   : -2.670
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : -2.657
+TNS   : -2.657
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : -2.657
+TNS   : -2.657
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : -2.650
+TNS   : -2.650
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : -2.650
+TNS   : -2.650
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : -2.622
+TNS   : -2.622
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : -2.576
+TNS   : -2.576
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : -2.559
+TNS   : -2.559
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : -2.542
+TNS   : -2.542
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : -2.534
+TNS   : -2.534
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : -2.522
+TNS   : -2.522
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : -2.516
+TNS   : -2.516
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : -2.509
+TNS   : -2.509
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : -2.465
+TNS   : -2.465
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : -2.056
+TNS   : -2.056
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : -1.987
+TNS   : -1.987
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : -1.932
+TNS   : -1.932
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : -1.681
+TNS   : -1.681
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : -1.676
+TNS   : -1.676
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : -1.651
+TNS   : -1.651
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : -1.635
+TNS   : -1.635
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : -1.605
+TNS   : -1.605
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : -1.601
+TNS   : -1.601
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : -1.563
+TNS   : -1.563
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : -1.552
+TNS   : -1.552
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : -1.534
+TNS   : -1.534
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : -1.503
+TNS   : -1.503
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : -1.447
+TNS   : -1.447
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : -1.445
+TNS   : -1.445
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : -1.420
+TNS   : -1.420
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : -1.394
+TNS   : -1.394
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : -1.392
+TNS   : -1.392
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : -1.388
+TNS   : -1.388
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : -1.332
+TNS   : -1.332
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : -1.316
+TNS   : -1.316
+
+Type  : Fast 1200mV 0C Model Recovery 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : -1.296
+TNS   : -1.296
+
+Type  : Fast 1200mV 0C Model Recovery 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : -1.258
+TNS   : -2.500
+
+Type  : Fast 1200mV 0C Model Recovery 'hold'
+Slack : -0.605
+TNS   : -0.605
+
+Type  : Fast 1200mV 0C Model Recovery 'CLK_50'
+Slack : 0.079
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'hold'
+Slack : 0.176
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'CLK_50'
+Slack : 0.647
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : 0.908
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : 1.242
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : 1.242
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : 1.692
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : 1.737
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : 1.896
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : 1.952
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : 1.953
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : 1.959
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : 1.972
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : 1.972
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : 1.982
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : 1.992
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : 2.008
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : 2.010
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : 2.020
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : 2.065
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : 2.067
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : 2.078
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : 2.080
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : 2.093
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : 2.099
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : 2.101
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : 2.102
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : 2.105
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : 2.108
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : 2.113
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : 2.113
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : 2.131
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : 2.140
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : 2.144
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : 2.146
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : 2.148
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : 2.158
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : 2.162
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : 2.166
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : 2.167
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : 2.187
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : 2.215
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : 2.217
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : 2.234
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : 2.242
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : 2.244
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : 2.246
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : 2.247
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : 2.277
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : 2.279
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : 2.302
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : 2.328
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : 2.357
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : 2.365
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : 2.840
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'hold'
+Slack : -3.000
+TNS   : -72.772
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_50'
+Slack : -3.000
+TNS   : -7.680
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'start_stop'
+Slack : -3.000
+TNS   : -4.249
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|CLK_100Hz'
+Slack : -1.000
+TNS   : -48.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|NegEdgeJKTypeFF:jkff0|Q'
+Slack : -1.000
+TNS   : -47.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff1|Q'
+Slack : -1.000
+TNS   : -11.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff0|Q'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff1|Q'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff2|Q'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff3|Q'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SixBitBinaryCounter:sbbc3|DTypeFF:dtff4|Q'
+Slack : -1.000
+TNS   : -2.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|DTypeFF:dtff0|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff0|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff1|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff2|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff3|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc0|DTypeFF:dtff4|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff0|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff1|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff2|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff3|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc1|DTypeFF:dtff4|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff0|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff1|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff2|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff3|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FiveBitBinaryCounter:fbbc2|DTypeFF:dtff4|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff0|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff1|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'ClockDivider50MHzTo100Hz:clkdivider|FourBitBinaryCounter:fbbc3|DTypeFF:dtff2|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff2|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|DTypeFF:dtff3|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|NineCycleDelayMod:ncdm0|DTypeFF:dtff8|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff0|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff1|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff2|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff3|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff4|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc0|DTypeFF:dtff5|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff0|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff1|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff2|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff3|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff4|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc1|DTypeFF:dtff5|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff0|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff1|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff2|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff3|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff4|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc2|DTypeFF:dtff5|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff0|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff1|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff2|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff3|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff4|Q'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'StopwatchLogic:comb_3|StopwatchCounter:sc0|SevenBitBinaryCounter:sbbc4|DTypeFF:dtff5|Q'
+Slack : -1.000
+TNS   : -1.000
+
+------------------------------------------------------------
